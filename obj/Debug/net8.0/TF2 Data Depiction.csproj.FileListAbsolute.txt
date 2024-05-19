@@ -1,0 +1,15 @@
+C:\Users\rexer\Documents\GitHub\tf2PlayerCount\bin\Debug\net8.0\TF2 Data Depiction.exe
+C:\Users\rexer\Documents\GitHub\tf2PlayerCount\bin\Debug\net8.0\TF2 Data Depiction.deps.json
+C:\Users\rexer\Documents\GitHub\tf2PlayerCount\bin\Debug\net8.0\TF2 Data Depiction.runtimeconfig.json
+C:\Users\rexer\Documents\GitHub\tf2PlayerCount\bin\Debug\net8.0\TF2 Data Depiction.dll
+C:\Users\rexer\Documents\GitHub\tf2PlayerCount\bin\Debug\net8.0\TF2 Data Depiction.pdb
+C:\Users\rexer\Documents\GitHub\tf2PlayerCount\obj\Debug\net8.0\TF2 Data Depiction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rexer\Documents\GitHub\tf2PlayerCount\obj\Debug\net8.0\TF2 Data Depiction.AssemblyInfoInputs.cache
+C:\Users\rexer\Documents\GitHub\tf2PlayerCount\obj\Debug\net8.0\TF2 Data Depiction.AssemblyInfo.cs
+C:\Users\rexer\Documents\GitHub\tf2PlayerCount\obj\Debug\net8.0\TF2 Data Depiction.csproj.CoreCompileInputs.cache
+C:\Users\rexer\Documents\GitHub\tf2PlayerCount\obj\Debug\net8.0\TF2 Data Depiction.sourcelink.json
+C:\Users\rexer\Documents\GitHub\tf2PlayerCount\obj\Debug\net8.0\TF2 Data Depiction.dll
+C:\Users\rexer\Documents\GitHub\tf2PlayerCount\obj\Debug\net8.0\refint\TF2 Data Depiction.dll
+C:\Users\rexer\Documents\GitHub\tf2PlayerCount\obj\Debug\net8.0\TF2 Data Depiction.pdb
+C:\Users\rexer\Documents\GitHub\tf2PlayerCount\obj\Debug\net8.0\TF2 Data Depiction.genruntimeconfig.cache
+C:\Users\rexer\Documents\GitHub\tf2PlayerCount\obj\Debug\net8.0\ref\TF2 Data Depiction.dll
